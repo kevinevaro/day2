@@ -1,0 +1,42 @@
+.col-md-12{
+  height: 100px;
+  background-color: purple;
+  color: #fff;
+
+}
+.col-md-6{
+  border: 2px solid #000;
+  height: 100px;
+  background-color: blue;
+
+}
+.col-md-3{
+  border: 2px solid #000;
+  height: 100px;
+  background-color: green;
+}
+.col-md-4{
+  border: 1px solid #000;
+  height: 50px;
+  background-color: yellow;
+}
+.col-md-9{
+  border: 1px solid black;
+  background-color: orange;
+}
+.container-fluid{
+  height: 50px;
+  background-color: red;
+}
+.container{
+  height: 50px;
+  background-color: pink;
+}
+.yellow{
+  background-color: yellow;
+}
+.absoulute-lorem{
+  position: absolute;
+  top: 20px;
+  left: 200px;
+}
